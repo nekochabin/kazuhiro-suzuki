@@ -1,0 +1,5 @@
+{
+  "name": "AIスライドスクリプトジェネレーター",
+  "description": "非構造化テキストを、美しいGoogleスライドプレゼンテーションを生成するための完全なGoogle Apps Scriptに変換するインテリジェントなツールです。レイアウト、色、コンテンツを簡単にカスタマイズできます。",
+  "requestFramePermissions": []
+}
